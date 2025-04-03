@@ -13,7 +13,7 @@ A text-based Hangman game written in Python. The program selects a random word, 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/hangman-game.git
+   git clone https://github.com/Muawiya-contact/hangman-game.git
    ```
 2. Navigate to the project directory:
    ```bash
